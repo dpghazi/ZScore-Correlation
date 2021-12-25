@@ -1,4 +1,4 @@
-# ZScore_Correlation
+# ZScore Correlation
 - **Neuroscience / Neuroimaging concepts**
     - Correlating neural signals with experimental design
 - **Datascience / Coding concepts**
