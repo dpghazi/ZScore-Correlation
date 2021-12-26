@@ -1,7 +1,7 @@
 # ZScore Correlation
-- **Neuroscience / Neuroimaging concepts**
+- **Neuroscience / Neuroimaging Concepts**
     - Correlating neural signals with experimental design
-- **Datascience / Coding concepts**
+- **Data Science / Coding Concepts**
     - Normalization
     - Z-scoring
     - Conceptual Interpretation of Correlation
